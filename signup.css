@@ -1,0 +1,63 @@
+*{
+    margin:0;
+    padding: 0;
+}
+body{
+   
+    line-height: 1.6;
+    margin-top: 90px;
+    margin-left: 289px;
+    margin-right: 319px;
+    font-size: 20px;
+    font-family: 'Nanum Brush Script', cursive;
+    background-image: url(images/street.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+
+
+}
+header{
+    
+    color: #000000;
+    text-align: center;
+    padding: 1rem;
+}
+main{ 
+    padding: 2rem;
+    text-align: center;
+
+}
+footer{
+    text-align: center;
+    
+    font-size: 20px;
+    padding-bottom:10px ;
+}
+.signup-form, .signin-form{
+    max-width: 300px;
+    margin:0 auto;
+
+}
+label{
+    display: block;
+    margin-bottom: 5px;
+}
+input{
+    width:100%;
+    padding: 8px;
+    margin-bottom: 10px;
+    border:1px solid #474646;
+    border-radius: 20px;
+    
+    
+}
+button{
+    display: inline-block;
+    padding: 8px 20px;
+    background-color: #ffffff;
+}
+.borderout{
+    border: 2px solid black;
+    border-radius: 50px;
+    background-color: #cdce936e;
+}
